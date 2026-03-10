@@ -1,0 +1,1960 @@
+{
+  "mise_a_jour": "14:18:33",
+  "communes": [
+    {
+      "code": "01001",
+      "nom": "L'Abergement-Clémenciat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01002",
+      "nom": "L'Abergement-de-Varey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01004",
+      "nom": "Ambérieu-en-Bugey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01005",
+      "nom": "Ambérieux-en-Dombes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01006",
+      "nom": "Ambléon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01007",
+      "nom": "Ambronay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01008",
+      "nom": "Ambutrix",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01009",
+      "nom": "Andert-et-Condon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01010",
+      "nom": "Anglefort",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01011",
+      "nom": "Apremont",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01012",
+      "nom": "Aranc",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01013",
+      "nom": "Arandas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01014",
+      "nom": "Arbent",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01015",
+      "nom": "Arboys en Bugey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01016",
+      "nom": "Arbigny",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01017",
+      "nom": "Argis",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01019",
+      "nom": "Armix",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01021",
+      "nom": "Ars-sur-Formans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01022",
+      "nom": "Artemare",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01023",
+      "nom": "Asnières-sur-Saône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01024",
+      "nom": "Attignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01025",
+      "nom": "Bâgé-Dommartin",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01026",
+      "nom": "Bâgé-le-Châtel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01027",
+      "nom": "Balan",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01028",
+      "nom": "Baneins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01029",
+      "nom": "Beaupont",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01030",
+      "nom": "Beauregard",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01031",
+      "nom": "Bellignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01032",
+      "nom": "Béligneux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01033",
+      "nom": "Valserhône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01034",
+      "nom": "Belley",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01035",
+      "nom": "Belleydoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01036",
+      "nom": "Valromey-sur-Séran",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01037",
+      "nom": "Bénonces",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01038",
+      "nom": "Bény",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01040",
+      "nom": "Béréziat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01041",
+      "nom": "Bettant",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01042",
+      "nom": "Bey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01043",
+      "nom": "Beynost",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01044",
+      "nom": "Billiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01045",
+      "nom": "Birieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01046",
+      "nom": "Biziat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01047",
+      "nom": "Blyes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01049",
+      "nom": "La Boisse",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01050",
+      "nom": "Boissey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01051",
+      "nom": "Bolozon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01052",
+      "nom": "Bouligneux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01053",
+      "nom": "Bourg-en-Bresse",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01054",
+      "nom": "Bourg-Saint-Christophe",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01056",
+      "nom": "Boyeux-Saint-Jérôme",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01057",
+      "nom": "Boz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01058",
+      "nom": "Brégnier-Cordon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01060",
+      "nom": "Brénod",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01061",
+      "nom": "Brens",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01062",
+      "nom": "Bressolles",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01063",
+      "nom": "Brion",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01064",
+      "nom": "Briord",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01065",
+      "nom": "Buellas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01066",
+      "nom": "La Burbanche",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01067",
+      "nom": "Ceignes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01068",
+      "nom": "Cerdon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01069",
+      "nom": "Certines",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01071",
+      "nom": "Cessy",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01072",
+      "nom": "Ceyzériat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01073",
+      "nom": "Ceyzérieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01074",
+      "nom": "Chalamont",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01075",
+      "nom": "Chaleins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01076",
+      "nom": "Chaley",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01077",
+      "nom": "Challes-la-Montagne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01078",
+      "nom": "Challex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01079",
+      "nom": "Champagne-en-Valromey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01080",
+      "nom": "Champdor-Corcelles",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01081",
+      "nom": "Champfromier",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01082",
+      "nom": "Chanay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01083",
+      "nom": "Chaneins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01084",
+      "nom": "Chanoz-Châtenay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01085",
+      "nom": "La Chapelle-du-Châtelard",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01087",
+      "nom": "Charix",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01088",
+      "nom": "Charnoz-sur-Ain",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01089",
+      "nom": "Château-Gaillard",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01090",
+      "nom": "Châtenay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01092",
+      "nom": "Châtillon-la-Palud",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01093",
+      "nom": "Châtillon-sur-Chalaronne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01094",
+      "nom": "Chavannes-sur-Reyssouze",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01095",
+      "nom": "Nivigne et Suran",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01096",
+      "nom": "Chaveyriat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01098",
+      "nom": "Chazey-Bons",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01099",
+      "nom": "Chazey-sur-Ain",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01100",
+      "nom": "Cheignieu-la-Balme",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01101",
+      "nom": "Chevillard",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01102",
+      "nom": "Chevroux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01103",
+      "nom": "Chevry",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01104",
+      "nom": "Chézery-Forens",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01105",
+      "nom": "Civrieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01106",
+      "nom": "Cize",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01107",
+      "nom": "Cleyzieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01108",
+      "nom": "Coligny",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01109",
+      "nom": "Collonges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01110",
+      "nom": "Colomieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01111",
+      "nom": "Conand",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01112",
+      "nom": "Condamine",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01113",
+      "nom": "Condeissiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01114",
+      "nom": "Confort",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01115",
+      "nom": "Confrançon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01116",
+      "nom": "Contrevoz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01117",
+      "nom": "Conzieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01118",
+      "nom": "Corbonod",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01121",
+      "nom": "Corlier",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01123",
+      "nom": "Cormoranche-sur-Saône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01124",
+      "nom": "Cormoz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01125",
+      "nom": "Corveissiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01127",
+      "nom": "Courmangoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01128",
+      "nom": "Courtes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01129",
+      "nom": "Crans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01130",
+      "nom": "Bresse Vallons",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01133",
+      "nom": "Cressin-Rochefort",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01134",
+      "nom": "Crottet",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01135",
+      "nom": "Crozet",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01136",
+      "nom": "Cruzilles-lès-Mépillat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01138",
+      "nom": "Culoz-Béon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01139",
+      "nom": "Curciat-Dongalon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01140",
+      "nom": "Curtafond",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01141",
+      "nom": "Cuzieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01142",
+      "nom": "Dagneux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01143",
+      "nom": "Divonne-les-Bains",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01145",
+      "nom": "Dompierre-sur-Veyle",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01146",
+      "nom": "Dompierre-sur-Chalaronne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01147",
+      "nom": "Domsure",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01148",
+      "nom": "Dortan",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01149",
+      "nom": "Douvres",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01150",
+      "nom": "Drom",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01151",
+      "nom": "Druillat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01152",
+      "nom": "Echallon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01153",
+      "nom": "Echenevex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01155",
+      "nom": "Evosges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01156",
+      "nom": "Faramans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01157",
+      "nom": "Fareins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01158",
+      "nom": "Farges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01159",
+      "nom": "Feillens",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01160",
+      "nom": "Ferney-Voltaire",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01162",
+      "nom": "Flaxieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01163",
+      "nom": "Foissiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01165",
+      "nom": "Francheleins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01166",
+      "nom": "Frans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01167",
+      "nom": "Garnerans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01169",
+      "nom": "Genouilleux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01170",
+      "nom": "Béard-Géovreissiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01171",
+      "nom": "Géovreisset",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01173",
+      "nom": "Gex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01174",
+      "nom": "Giron",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01175",
+      "nom": "Gorrevod",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01177",
+      "nom": "Grand-Corent",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01179",
+      "nom": "Grièges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01180",
+      "nom": "Grilly",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01181",
+      "nom": "Groissiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01183",
+      "nom": "Guéreins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01184",
+      "nom": "Hautecourt-Romanèche",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01185",
+      "nom": "Plateau d'Hauteville",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01187",
+      "nom": "Haut Valromey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01188",
+      "nom": "Illiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01189",
+      "nom": "Injoux-Génissiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01190",
+      "nom": "Innimond",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01191",
+      "nom": "Izenave",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01192",
+      "nom": "Izernore",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01193",
+      "nom": "Izieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01194",
+      "nom": "Jassans-Riottier",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01195",
+      "nom": "Jasseron",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01196",
+      "nom": "Jayat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01197",
+      "nom": "Journans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01198",
+      "nom": "Joyeux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01199",
+      "nom": "Jujurieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01200",
+      "nom": "Labalme",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01202",
+      "nom": "Lagnieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01203",
+      "nom": "Laiz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01204",
+      "nom": "Le Poizat-Lalleyriat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01206",
+      "nom": "Lantenay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01207",
+      "nom": "Lapeyrouse",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01208",
+      "nom": "Lavours",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01209",
+      "nom": "Léaz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01210",
+      "nom": "Lélex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01211",
+      "nom": "Lent",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01212",
+      "nom": "Lescheroux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01213",
+      "nom": "Leyment",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01214",
+      "nom": "Leyssard",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01215",
+      "nom": "Surjoux-Lhopital",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01216",
+      "nom": "Lhuis",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01219",
+      "nom": "Lompnas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01224",
+      "nom": "Loyettes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01225",
+      "nom": "Lurcy",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01227",
+      "nom": "Magnieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01228",
+      "nom": "Maillat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01229",
+      "nom": "Malafretaz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01230",
+      "nom": "Mantenay-Montlin",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01231",
+      "nom": "Manziat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01232",
+      "nom": "Marboz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01233",
+      "nom": "Marchamp",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01234",
+      "nom": "Marignieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01235",
+      "nom": "Marlieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01236",
+      "nom": "Marsonnas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01237",
+      "nom": "Martignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01238",
+      "nom": "Massieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01239",
+      "nom": "Massignieu-de-Rives",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01240",
+      "nom": "Matafelon-Granges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01241",
+      "nom": "Meillonnas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01242",
+      "nom": "Mérignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01243",
+      "nom": "Messimy-sur-Saône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01244",
+      "nom": "Meximieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01245",
+      "nom": "Bohas-Meyriat-Rignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01246",
+      "nom": "Mézériat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01247",
+      "nom": "Mijoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01248",
+      "nom": "Mionnay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01249",
+      "nom": "Miribel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01250",
+      "nom": "Misérieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01252",
+      "nom": "Mogneneins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01254",
+      "nom": "Montagnat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01255",
+      "nom": "Montagnieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01257",
+      "nom": "Montanges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01258",
+      "nom": "Montceaux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01259",
+      "nom": "Montcet",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01260",
+      "nom": "Le Montellier",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01261",
+      "nom": "Monthieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01262",
+      "nom": "Montluel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01263",
+      "nom": "Montmerle-sur-Saône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01264",
+      "nom": "Montracol",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01265",
+      "nom": "Montréal-la-Cluse",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01266",
+      "nom": "Montrevel-en-Bresse",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01267",
+      "nom": "Nurieux-Volognat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01268",
+      "nom": "Murs-et-Gélignieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01269",
+      "nom": "Nantua",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01272",
+      "nom": "Neuville-les-Dames",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01273",
+      "nom": "Neuville-sur-Ain",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01274",
+      "nom": "Les Neyrolles",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01275",
+      "nom": "Neyron",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01276",
+      "nom": "Niévroz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01277",
+      "nom": "Nivollet-Montgriffon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01279",
+      "nom": "Oncieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01280",
+      "nom": "Ordonnaz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01281",
+      "nom": "Ornex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01282",
+      "nom": "Outriaz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01283",
+      "nom": "Oyonnax",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01284",
+      "nom": "Ozan",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01285",
+      "nom": "Parcieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01286",
+      "nom": "Parves et Nattages",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01288",
+      "nom": "Péron",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01289",
+      "nom": "Péronnas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01290",
+      "nom": "Pérouges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01291",
+      "nom": "Perrex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01293",
+      "nom": "Peyriat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01294",
+      "nom": "Peyrieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01295",
+      "nom": "Peyzieux-sur-Saône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01296",
+      "nom": "Pirajoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01297",
+      "nom": "Pizay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01298",
+      "nom": "Plagne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01299",
+      "nom": "Le Plantay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01301",
+      "nom": "Polliat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01302",
+      "nom": "Pollieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01303",
+      "nom": "Poncin",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01304",
+      "nom": "Pont-d'Ain",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01305",
+      "nom": "Pont-de-Vaux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01306",
+      "nom": "Pont-de-Veyle",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01307",
+      "nom": "Port",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01308",
+      "nom": "Pougny",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01309",
+      "nom": "Pouillat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01310",
+      "nom": "Prémeyzel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01311",
+      "nom": "Prémillieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01313",
+      "nom": "Prévessin-Moëns",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01314",
+      "nom": "Priay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01317",
+      "nom": "Ramasse",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01318",
+      "nom": "Rancé",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01319",
+      "nom": "Relevant",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01320",
+      "nom": "Replonges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01321",
+      "nom": "Revonnas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01322",
+      "nom": "Reyrieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01323",
+      "nom": "Reyssouze",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01325",
+      "nom": "Rignieux-le-Franc",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01328",
+      "nom": "Romans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01329",
+      "nom": "Rossillon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01331",
+      "nom": "Saint-Alban",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01332",
+      "nom": "Saint-André-de-Bâgé",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01333",
+      "nom": "Saint-André-de-Corcy",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01334",
+      "nom": "Saint-André-d'Huiriat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01335",
+      "nom": "Saint-André-le-Bouchoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01336",
+      "nom": "Saint-André-sur-Vieux-Jonc",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01337",
+      "nom": "Saint-Bénigne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01338",
+      "nom": "Groslée-Saint-Benoit",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01339",
+      "nom": "Saint-Bernard",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01342",
+      "nom": "Sainte-Croix",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01343",
+      "nom": "Saint-Cyr-sur-Menthon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01344",
+      "nom": "Saint-Denis-lès-Bourg",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01345",
+      "nom": "Saint-Denis-en-Bugey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01346",
+      "nom": "Saint-Didier-d'Aussiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01347",
+      "nom": "Saint-Didier-de-Formans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01348",
+      "nom": "Saint-Didier-sur-Chalaronne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01349",
+      "nom": "Saint-Eloi",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01350",
+      "nom": "Saint-Etienne-du-Bois",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01351",
+      "nom": "Saint-Etienne-sur-Chalaronne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01352",
+      "nom": "Saint-Etienne-sur-Reyssouze",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01353",
+      "nom": "Sainte-Euphémie",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01354",
+      "nom": "Saint-Genis-Pouilly",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01355",
+      "nom": "Saint-Genis-sur-Menthon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01356",
+      "nom": "Saint-Georges-sur-Renon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01357",
+      "nom": "Saint-Germain-de-Joux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01358",
+      "nom": "Saint-Germain-les-Paroisses",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01359",
+      "nom": "Saint-Germain-sur-Renon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01360",
+      "nom": "Saint-Jean-de-Gonville",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01361",
+      "nom": "Saint-Jean-de-Niost",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01362",
+      "nom": "Saint-Jean-de-Thurigneux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01363",
+      "nom": "Saint-Jean-le-Vieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01364",
+      "nom": "Saint-Jean-sur-Reyssouze",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01365",
+      "nom": "Saint-Jean-sur-Veyle",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01366",
+      "nom": "Sainte-Julie",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01367",
+      "nom": "Saint-Julien-sur-Reyssouze",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01368",
+      "nom": "Saint-Julien-sur-Veyle",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01369",
+      "nom": "Saint-Just",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01370",
+      "nom": "Saint-Laurent-sur-Saône",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01371",
+      "nom": "Saint-Marcel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01372",
+      "nom": "Saint-Martin-de-Bavel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01373",
+      "nom": "Saint-Martin-du-Frêne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01374",
+      "nom": "Saint-Martin-du-Mont",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01375",
+      "nom": "Saint-Martin-le-Châtel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01376",
+      "nom": "Saint-Maurice-de-Beynost",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01378",
+      "nom": "Saint-Maurice-de-Gourdans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01379",
+      "nom": "Saint-Maurice-de-Rémens",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01380",
+      "nom": "Saint-Nizier-le-Bouchoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01381",
+      "nom": "Saint-Nizier-le-Désert",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01382",
+      "nom": "Sainte-Olive",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01383",
+      "nom": "Saint-Paul-de-Varax",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01384",
+      "nom": "Saint-Rambert-en-Bugey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01385",
+      "nom": "Saint-Rémy",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01386",
+      "nom": "Saint-Sorlin-en-Bugey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01387",
+      "nom": "Saint-Sulpice",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01388",
+      "nom": "Saint-Trivier-de-Courtes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01389",
+      "nom": "Saint-Trivier-sur-Moignans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01390",
+      "nom": "Saint-Vulbas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01391",
+      "nom": "Salavre",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01392",
+      "nom": "Samognat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01393",
+      "nom": "Sandrans",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01396",
+      "nom": "Sault-Brénaz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01397",
+      "nom": "Sauverny",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01398",
+      "nom": "Savigneux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01399",
+      "nom": "Ségny",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01400",
+      "nom": "Seillonnaz",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01401",
+      "nom": "Sergy",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01402",
+      "nom": "Sermoyer",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01403",
+      "nom": "Serrières-de-Briord",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01404",
+      "nom": "Serrières-sur-Ain",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01405",
+      "nom": "Servas",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01406",
+      "nom": "Servignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01407",
+      "nom": "Seyssel",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01408",
+      "nom": "Simandre-sur-Suran",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01410",
+      "nom": "Sonthonnax-la-Montagne",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01411",
+      "nom": "Souclin",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01412",
+      "nom": "Sulignat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01415",
+      "nom": "Talissieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01416",
+      "nom": "Tenay",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01418",
+      "nom": "Thil",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01419",
+      "nom": "Thoiry",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01420",
+      "nom": "Thoissey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01421",
+      "nom": "Torcieu",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01422",
+      "nom": "Tossiat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01423",
+      "nom": "Toussieux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01424",
+      "nom": "Tramoyes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01425",
+      "nom": "La Tranclière",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01426",
+      "nom": "Val-Revermont",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01427",
+      "nom": "Trévoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01428",
+      "nom": "Valeins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01429",
+      "nom": "Vandeins",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01430",
+      "nom": "Varambon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01431",
+      "nom": "Vaux-en-Bugey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01432",
+      "nom": "Verjon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01433",
+      "nom": "Vernoux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01434",
+      "nom": "Versailleux",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01435",
+      "nom": "Versonnex",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01436",
+      "nom": "Vesancy",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01437",
+      "nom": "Vescours",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01439",
+      "nom": "Vésines",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01441",
+      "nom": "Vieu-d'Izenave",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01443",
+      "nom": "Villars-les-Dombes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01444",
+      "nom": "Villebois",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01445",
+      "nom": "Villemotier",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01446",
+      "nom": "Villeneuve",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01447",
+      "nom": "Villereversure",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01448",
+      "nom": "Villes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01449",
+      "nom": "Villette-sur-Ain",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01450",
+      "nom": "Villieu-Loyes-Mollon",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01451",
+      "nom": "Viriat",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01452",
+      "nom": "Virieu-le-Grand",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01453",
+      "nom": "Arvière-en-Valromey",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01454",
+      "nom": "Virignin",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01456",
+      "nom": "Vongnes",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "01457",
+      "nom": "Vonnas",
+      "pourcentage": 100.0
+    }
+  ]
+}
